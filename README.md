@@ -67,7 +67,7 @@ Build a binary classification model to automatically detect negative film review
 ```
 film-review-sentiment/
 │
-├── proyecto_final_sprint14.ipynb
+├── sentiment_analysis_imdb_reviews..ipynb
 ├── imdb_reviews.tsv
 ├── requirements.txt
 └── README.md
