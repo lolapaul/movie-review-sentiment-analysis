@@ -29,7 +29,7 @@ Build a binary classification model to automatically detect negative film review
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - **File:** `imdb_reviews.tsv`
 - **Content:** Labeled IMDB reviews for training and testing
@@ -41,7 +41,7 @@ Build a binary classification model to automatically detect negative film review
 
 ---
 
-## 🧪 Models Used
+##  Models Used
 
 - Logistic Regression
 - Random Forest
@@ -50,7 +50,7 @@ Build a binary classification model to automatically detect negative film review
 
 ---
 
-## 🛠️ Tools & Libraries Used
+##  Tools & Libraries Used
 
 - Python
 - pandas
@@ -62,7 +62,7 @@ Build a binary classification model to automatically detect negative film review
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 film-review-sentiment/
@@ -75,13 +75,13 @@ film-review-sentiment/
 
 ---
 
-## ✅ Status
+##  Status
 
 ✔️ Project completed as part of the **TripleTen Bootcamp** – Sprint: *Text Classification & NLP*
 
 ---
 
-## 📌 Author
+##  Author
 
 David Villanueva  
 [LinkedIn](https://www.linkedin.com/in/david-villanueva-59659727)  
