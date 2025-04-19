@@ -1,4 +1,4 @@
-# 🎬 Film Review Sentiment Classification
+# Film Review Sentiment Classification
 
 A supervised machine learning project that builds and evaluates sentiment classifiers for movie reviews. The goal is to distinguish positive and negative reviews using natural language processing techniques and achieve a minimum F1 score of **0.85**.
 
