@@ -4,13 +4,13 @@ A supervised machine learning project that builds and evaluates sentiment classi
 
 ---
 
-## 📌 Objective
+## Objective
 
 Build a binary classification model to automatically detect negative film reviews using labeled data from IMDB. Explore different modeling techniques and analyze their ability to generalize to unseen reviews.
 
 ---
 
-## 🧠 Project Tasks
+##  Project Tasks
 
 1. **Data Loading & Cleaning**
    - Handle missing values and check data consistency.
