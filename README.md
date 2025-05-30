@@ -75,12 +75,6 @@ film-review-sentiment/
 
 ---
 
-##  Status
-
-✔️ Project completed as part of the **TripleTen Bootcamp** – Sprint: *Text Classification & NLP*
-
----
-
 ##  Author
 
 David Villanueva  
